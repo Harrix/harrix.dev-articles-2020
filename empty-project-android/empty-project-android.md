@@ -3,6 +3,8 @@ date: 2020-05-06
 categories: [it, programming]
 tags: [Android Studio, Android, Java]
 related-id: start-java
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Болванка приложения на Android Studio
