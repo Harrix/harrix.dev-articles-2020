@@ -9,6 +9,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2020/blob/main/empty-project-android/empty-project-android.md
 url: https://harrix.dev/ru/blog/2020/empty-project-android/
+lang: ru
 ---
 
 # Болванка приложения на Android Studio
