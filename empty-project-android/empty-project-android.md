@@ -10,6 +10,14 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2020/blob/main/empty-project-android/empty-project-android.md
 permalink: https://harrix.dev/ru/blog/2020/empty-project-android/
 lang: ru
+attribution:
+  - author: Google Inc.
+    author-site: https://developer.android.com/license
+    license: CC BY 2.5
+    license-url: https://creativecommons.org/licenses/by/2.5/
+    permalink: https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg
+    permalink-date: 2019-06-07
+    name: Android Studio icon.svg
 ---
 
 # Болванка приложения на Android Studio
