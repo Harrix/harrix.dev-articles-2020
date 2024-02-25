@@ -11,8 +11,16 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2020/blob/main/e
 permalink: https://harrix.dev/ru/articles/2020/empty-project-android/
 lang: ru
 attribution:
-  - { author: Google Inc., author-site: "https://developer.android.com/license", license: CC
-        BY 2.5, license-url: "https://creativecommons.org/licenses/by/2.5/", permalink: "https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg", permalink-date: 2019-06-07, name: Android Studio icon.svg }
+  - {
+      author: Google Inc.,
+      author-site: "https://developer.android.com/license",
+      license: CC
+        BY 2.5,
+      license-url: "https://creativecommons.org/licenses/by/2.5/",
+      permalink: "https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg",
+      permalink-date: 2019-06-07,
+      name: Android Studio icon.svg,
+    }
 ---
 
 # Болванка приложения на Android Studio
