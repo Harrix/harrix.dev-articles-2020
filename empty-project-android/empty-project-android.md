@@ -84,7 +84,7 @@ _Рисунок 5 — Готовый проект в Android Studio_
 
 Перейдем вначале к файлу `activity_main.xml`, который отвечает за разметку внешнего вида приложения:
 
-![Переход к activity_main.xml](img/new-project_06.png)
+![Переход к `activity_main.xml`](img/new-project_06.png)
 
 _Рисунок 6 — Переход к activity_main.xml_
 
@@ -92,13 +92,13 @@ _Рисунок 6 — Переход к activity_main.xml_
 
 Перейдем в текстовой режим разметки XML файла:
 
-![Переход к текстовому отображению activity_main.xml](img/new-project_07.png)
+![Переход к текстовому отображению `activity_main.xml`](img/new-project_07.png)
 
 _Рисунок 7 — Переход к текстовому отображению activity_main.xml_
 
 Там мы внутри контейнера `ConstraintLayout` видим элемент `TextView` с фразой `Hello, World!`:
 
-![Текущее содержимое файла activity_main.xml](img/new-project_08.png)
+![Текущее содержимое файла `activity_main.xml`](img/new-project_08.png)
 
 _Рисунок 8 — Текущее содержимое файла activity_main.xml_
 
@@ -116,7 +116,7 @@ _Рисунок 8 — Текущее содержимое файла activity_ma
 </LinearLayout>
 ```
 
-![Новое содержимое файла activity_main.xml](img/new-project_09.png)
+![Новое содержимое файла `activity_main.xml`](img/new-project_09.png)
 
 _Рисунок 9 — Новое содержимое файла activity_main.xml_
 
