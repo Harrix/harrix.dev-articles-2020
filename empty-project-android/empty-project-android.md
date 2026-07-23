@@ -86,7 +86,7 @@ _Рисунок 5 — Готовый проект в Android Studio_
 
 ![Переход к `activity_main.xml`](img/new-project_06.png)
 
-_Рисунок 6 — Переход к activity_main.xml_
+_Рисунок 6 — Переход к `activity_main.xml`_
 
 По умолчанию в Android Studio в качестве разметки используется контейнер `ConstraintLayout`. Для новичков он не совсем простой. Поменяем на обычный `LinearLayout`.
 
@@ -94,13 +94,13 @@ _Рисунок 6 — Переход к activity_main.xml_
 
 ![Переход к текстовому отображению `activity_main.xml`](img/new-project_07.png)
 
-_Рисунок 7 — Переход к текстовому отображению activity_main.xml_
+_Рисунок 7 — Переход к текстовому отображению `activity_main.xml`_
 
 Там мы внутри контейнера `ConstraintLayout` видим элемент `TextView` с фразой `Hello, World!`:
 
 ![Текущее содержимое файла `activity_main.xml`](img/new-project_08.png)
 
-_Рисунок 8 — Текущее содержимое файла activity_main.xml_
+_Рисунок 8 — Текущее содержимое файла `activity_main.xml`_
 
 И заменим содержимое всего файла на следующий код:
 
@@ -118,6 +118,6 @@ _Рисунок 8 — Текущее содержимое файла activity_ma
 
 ![Новое содержимое файла `activity_main.xml`](img/new-project_09.png)
 
-_Рисунок 9 — Новое содержимое файла activity_main.xml_
+_Рисунок 9 — Новое содержимое файла `activity_main.xml`_
 
 Болванка приложения готова.
